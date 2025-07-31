@@ -1,0 +1,15 @@
+{
+  "name": "maebe-app",
+  "version": "1.0.0",
+  "description": "A simple Express app for Azure deployment.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "build": "echo 'No build step required for this project.'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
